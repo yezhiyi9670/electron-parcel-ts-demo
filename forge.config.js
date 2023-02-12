@@ -20,7 +20,6 @@ module.exports = {
 		{
 			name: '@electron-forge/maker-squirrel',
 			config: {},
-			platforms: ['ia32']
 		},
 		// {
 		// 	name: '@electron-forge/maker-zip',
