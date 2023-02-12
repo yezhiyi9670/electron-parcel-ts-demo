@@ -7,7 +7,6 @@ This is a minimalistic demo about the way mixing [Electron](https://electronjs.o
 
 - Automated building
 - Whether it's the main or render process, the code is transpiled using Parcel, so it should be very fast.
-- Render process auto reload / hot reload, brought by Parcel.
 - Fully typed, even with a hack that types the contextBridge.
 
 ## How it works
