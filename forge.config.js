@@ -7,6 +7,9 @@ module.exports = {
 				return false
 			}
 			if(path == '/dist' || path.startsWith('/dist/')) {
+				if(path == '/dist/public-dev' || path.startsWith('/dist/public-dev/')) {
+					return true
+				}
 				return false
 			}
 			return true
