@@ -15,11 +15,5 @@
 		"strictNullChecks": true,
 		"forceConsistentCasingInFileNames": true,
 		"esModuleInterop": true
-	},
-	"include": [
-		"src/**/*"
-	],
-	"exclude": [
-		"dist"
-	]
+	}
 }
